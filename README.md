@@ -2,7 +2,7 @@
 A solution for controlling and configuring my blind controls at home via http with an esp32 devkit.
 
 # Problem description
-I have blind controls at home with two physical buttons on them each used to open or shut them. I want to be able to conrtol all of them individually or simultaneously just from my phone.
+I have blind controls at home with two physical buttons on them each used to open or shut them. I want to be able to control all of them individually or simultaneously just from my phone.
 
 More nice to have features which I'd like to add later are:
 - I can set times at which they drive up or down via my phone, even when I'm not connected to my home network or any network. The idea would be that I have an app on my phone which saves this information and syncs it with the esp the next time I'm connected to my home network.
