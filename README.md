@@ -24,7 +24,8 @@ More nice to have features which I'd like to add later are:
 # Tools I want to use
 ### definitely
 - espressif esp32 wifi chip 
-- [espressif IoT development framework](https://github.com/espressif/esp-idf) for developing a RESTful API server controlling GPIO ports to bypass the buttons on the blind controls
+- [espressif IoT development framework](https://github.com/espressif/esp-idf) for developing a RESTful API server controlling GPIO ports to bypass the buttons on the blind controls.
+  - (will start from https://github.com/espressif/esp-idf/tree/master/examples/protocols/http_server/restful_server)
 - [Google's Project Polymer](https://www.polymer-project.org/) for developing the frontend side
 
 ### maybe
